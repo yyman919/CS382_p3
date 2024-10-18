@@ -1,2 +1,2 @@
-# SpaceShmup-Project-3
+# Project 3: Space Shmup Game
  
